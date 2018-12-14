@@ -1,21 +1,21 @@
-#New Pong
+# New Pong
 
 Coded in C Sharp and created with Unity, this game was a project that I completed for the Game Design Workshop class (GAME 3000) at Fitchburg State University in Spring 2016.
 
-(/ReadMeImages/SplashScreen.png)
+<p align="center"><img src="https://github.com/dbeaulac/NewPong/blob/master/ReadMeImages/SplashScreen.png" width="500"></p>
 
 The game is a remake of the classic arcade game "Pong", and is available in two modes: A classic mode that replicates the original, and another mode referred to as "New Pong", 
 
 ## Modes and Settings
 There are two modes of gameplay, both featuring the player playing against an AI opponent.
-(/ReadMeImages/ClassicPong.png)
+<p align="center"><img src="https://github.com/dbeaulac/NewPong/blob/master/ReadMeImages/ClassicPong.png" width="500"></p>
 - Classic Pong: A replication of the original game. First to 11 points wins.
-(/ReadMeImages/NewPong1.png)
+<p align="center"><img src="https://github.com/dbeaulac/NewPong/blob/master/ReadMeImages/NewPong1.png" width="500"></p>
 - New Pong: A five level battle mode, with each level cleared by reaching seven points before the AI. The first level features Classic Pong, while subsequent levels will feature additional obstacles that can change the direction of the ball or manipulate the speed of the ball, creating additional challenges.
 
 Three difficulty levels are available, with harder difficulties resulting in an AI that is sharper at reading the ball and quicker at moving their paddle.
 
-(/ReadMeImages/NewPong2.png)
+<p align="center"><img src="https://github.com/dbeaulac/NewPong/blob/master/ReadMeImages/NewPong2.png" width="500"></p>
 
 ## Controls
 - Up and down arrow keys (or 'W' and 'S' keys) move the paddle up and down.
