@@ -1,0 +1,33 @@
+Initialize engine version: 5.3.8p2 (702ec25c6a03)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  2.326 seconds
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daniel\Desktop\CS\GAME2300\NewPong\NewPong_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.807836 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2ee4 -> priority: 1 
+  Thread -> id: 3a2c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.743100 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 0.322450 ms (FindLiveObjects: 0.065430 ms CreateObjectMapping: 0.016250 ms MarkObjects: 0.229222 ms  DeleteObjects: 0.010691 ms)
+

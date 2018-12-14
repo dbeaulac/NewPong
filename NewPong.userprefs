@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\BallS.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Level.cs" Line="42" Column="11" />
+      <File FileName="Assets\_Scripts\BallS.cs" Line="96" Column="23" />
+      <File FileName="Assets\_Scripts\Paddle.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\OppPaddle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
